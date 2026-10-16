@@ -11,16 +11,15 @@
    ============================================================ */
 
 window.LETTER = {
-  greeting: "Dear Joshna,",
+  greeting: "Dear Joshuluuu,",
 
   paragraphs: [
-    
-    ".",
-    ".",
-    ".",
-    "."
+    "Happy Birthday! I wanted to write you something that is only from me, so here it is.",
+    "Replace this paragraph with what you really want to say to her. Maybe a memory you both love, something you admire about her, or an inside joke that will make her laugh.",
+    "Replace this one too. Then add as many more as you like.",
+    "I hope this year is full of good things, and that you always know how loved you are."
   ],
 
   signoff: "With lots of love,",
-  from: "Your well wisher!"
+  from: "Your friend"
 };
