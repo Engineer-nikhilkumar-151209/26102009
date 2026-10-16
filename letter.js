@@ -14,10 +14,9 @@ window.LETTER = {
   greeting: "Dear Joshuluuu,",
 
   paragraphs: [
-    "Happy Birthday! I wanted to write you something that is only from me, so here it is.",
-    "Replace this paragraph with what you really want to say to her. Maybe a memory you both love, something you admire about her, or an inside joke that will make her laugh.",
-    "Replace this one too. Then add as many more as you like.",
-    "I hope this year is full of good things, and that you always know how loved you are."
+    "hi amma ♥️, happy birthday day , neetho chala vishayalu matladali Ani undhi , kani neeku avi Anni chadive opika undho ledho naku theliyadhu .so, direct ga matter loke vastha sodi lekunda , direct matter enti love proposals lantivi kadhu naa intension medha neeku clarity undali , nee medha naku clarity undali , purthiga chadive opika untae ne chaduvu , lekapothey ikkade agipo 🫶.",
+    "neenu chesina first thappu ,ninnu correct ga approach avvale ,dhaniki Karanam maa amma , nannu ekkuvuga matladinichedi kadhu, neenu co-ed chaduvukunna , may be 150 to 160 girls lo rough ga maa batch lo 10 members girls perulu kuda nak theliyadhu, shy feeling kadhu , matlade avasaram eppudu rale ,avasaram vachina evaru natho matladevaru kadhu due to mana beard(gaddam)🤣, oka 2 members nak chala close friends like my own sisters as I don't have own sisters 😔 , nannu own bro laga chustharu.inthaku mundhu love lantivi emi levu b'coz manani school lo unchevaru kadhu due to anger issue , ekkada godava aythe akkada neenu unta full fights ayipoyevi , full boothulu adesavadini teachers dhaggara kuda ,andhuke school lo ekkuva unchevaru kadhu , science fairs etc pampinchesavaru , chala saralu Mee school ,St Ann's kuda vachanu, ninnu eppudu chudaledhu kani",
+    "ninnu first time niku dash eechinnappude chusa , hey trust me kavali Ani dash ivvale , Edo alochinchukoni nadusthunna , nuv aa roju chusinappudu ammavaru kanipinchavu , long hair , deep eyes , bright face , naku mata raledhu asala sayantharam intiki vellinappudu chepudham anukonna kani nee Peru naku apputiki theliyadhu 🤣😅 ,'ye ammai 'ani pilludham anukonna ye Ani aricha nuvvu kuda vennaki thirigavu , aa time ke maa mama entry eechagu 'ye ammai 'kastha 'ye WhatsApp mama 'aayandhi ,first time ninnu chusinappudu chaduvu bidda la kinipinchav😜 aa next day antha mundhu bench lo vethika dhorakale , mana class kadu gavola anukonna ,aa next day anandh cheppadu , last bench day scholar ammayi neenu serious ga chusthundhi Ani , ninnu dash icchi sorry cheppaledhu Ani serious ga chusthunnav anukonna.",
   ],
 
   signoff: "With lots of love,",
