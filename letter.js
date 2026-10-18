@@ -25,6 +25,7 @@ window.LETTER = {
 
 "joshna , neenu chala open ga matladuthunna ,oka Vella ninnu love cheyyadame nee problem aythe nak cheppu , let's start fresh , friends ga undam please , appudappudu neetho chala matladali anipisthadhi , chelli Ani ena matladiyali Ani anipisthadhi , I control my self. nuvvu naku perfect match Ani neenu anukontunna , kani may be neenu neeku kakapovachu , may be u deserve some better than me , nuvvu eekadaunna , eppudu happy ga undali , natho unna ,lekapotina adhe naa korika  ippudeke chala ekkuva rasisa , reply isthav ane annukontunna , waiting for your reply amma ♥️, neeku eppudu elanti problem vachina nannu consult avvu , definately I'll sort it ",
 "edhi antha endhuku rasanu antae college aaipoina tharuvatha , neenu bayata ekkada ayana kanipisthe thala thippukoni vellipoku , oka 2 mins natho matladu chalu , neenu evarino neeku theliyanattu behave cheyyaku poni at least matladaka poyona oka smile ena evvu chalu ee jivitham ki , please respond, answer antha rude ga unna parvale , I'll try to digest it , kani reply evvu amma ♥️",
+"Inka chala vishayalu neetho share chedukovali Ani undhi kani , nuv ikkada varuku chadivavu , dheniki chala happy ga feel avuthunna , thank u for spending time 🥺🫠😍🥰",
   ],
 
   signoff: "With lots of love,",
